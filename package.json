@@ -1,0 +1,14 @@
+{
+  "name": "gulp-timestamp2path",
+  "version": "1.0.0",
+  "description": "给html,js,css中引用的静态资源路径后面加时间戳,防止缓存",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hanzheng",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^3.0.1"
+  }
+}
